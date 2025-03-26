@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain_community
+python-dotenv
+langchain_groq
+openai
+pinecone
+tiktoken
+chromadb
+langflow
