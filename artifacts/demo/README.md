@@ -1,3 +1,5 @@
+Please use the files in demo folder as all updated files are in demo folder
+
 Replace this file with files that you would like to use for your demo. This may include
 
 - A presentation/deck in pdf or pptx format
